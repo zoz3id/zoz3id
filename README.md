@@ -1,18 +1,47 @@
-# 💫 About Me:
-🏫 I am a Junior at Faculty of Computer And Information Science at Ain-Shams University.<br>🔭 I'm currently working on improving my backend development skills<br>🚀 Interested in Backend Development & Software Engineering<br>📚 Always learning something new
+# **Hi, I'm Zeyad Eid** 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+.NET+Developer;Senior+CS+Student;Software+Engineer;)](https://github.com/DenverCoder1/readme-typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeyad_3id) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad Eid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeyadzica22@gmail.com) 
+## About me
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=zoz3id&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zoz3id&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zoz3id&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🏫 I am a `Senior` at [Faculty of Computer and Information Sciences](https://ums.asu.edu.eg/), [Ain Shams University](https://www.asu.edu.eg/).
+- ⚙️ I'm focused on `Backend Development` with `C#` and `.NET`.
+- 🧑‍💻 I love using software as a solution for every `problem`.
+- 🧑‍🎓 I'm currently learning `ASP.NET Core`, `Entity Framework` and `Software Engineering`.
+- 🤓 Always `learning new things`.
+- 🤔 I'm open to `internships / job opportunities`.
 
----
-[![](https://komarev.com/ghpvc/?username=zoz3id&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect with me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![WhatsApp](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg)](https://wa.me/201126318686)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/zeyad-eid-22837536a)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/zeyad.eid.10441)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/Zeyad_3id)
+
+## 🛠️ My Skills
+
+### Programming languages
+[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+[![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Backend Development
+[![dotnetcore](https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg)](https://dotnet.microsoft.com/)
+[![sqlserver](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)](https://www.microsoft.com/en-us/sql-server)
+[![postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)](https://www.postman.com/)
+
+### Frontend Development
+[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)
+
+### Software & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)
+
+### IDEs
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)

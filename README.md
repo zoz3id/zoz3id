@@ -19,10 +19,9 @@
 ---
 
 ## 👨‍💻 About Me
-
-* 🎓 **Computer Science Student** at Ain Shams University
+* 🎓 Senior Computer Science student at **Faculty of Computer and Information Sciences, Ain Shams University**
 * 💻 Focused on **Backend Development with C# & .NET**
-* ⚙️ Currently working with **ASP.NET Core, REST APIs, and SQL Server**
+* ⚙️ Currently Learning  **ASP.NET Core, REST APIs, and SQL Server**
 * 🧠 Interested in **Software Engineering, Machine Learning, and Problem Solving**
 * 🤝 Experienced in collaborative development using **Git & GitHub**
 * 🌱 Always learning and improving my technical skills
@@ -64,84 +63,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie Popularity Prediction
-
-**Python · Scikit-learn · XGBoost · Random Forest · Streamlit**
-
-> Machine learning pipeline for predicting movie popularity levels using a dataset containing nearly **1M movies**.
-
-* 🔹 Data preprocessing and feature engineering
-* 🔹 Feature selection and multi-label genre encoding
-* 🔹 Compared multiple ML models
-* 🔹 Built a Streamlit application for real-time predictions
-
----
-
-### 📄 Resume Intelligent Processing System
-
-**Python · FastAPI · Qdrant · LangChain · LLaMA-3 · Docker**
-
-> RAG-based system for semantic resume retrieval and candidate search.
-
-* 🔹 Processed and indexed **2,400+ resumes**
-* 🔹 Created **42,000+ vectorized text chunks**
-* 🔹 Integrated LLaMA-3-70B through Groq API
-* 🔹 Built REST APIs using FastAPI
-* 🔹 Containerized the application using Docker Compose
-
----
-
-### 💳 Flosak Wallet System
-
-**C++ · Qt · JSON · OOP**
-
-> Digital wallet system focused on account and transaction management.
-
-* 🔹 Authentication and profile management
-* 🔹 Money transfer and transaction history
-* 🔹 Admin account management
-* 🔹 Password recovery with email verification
-* 🔹 JSON-based persistent storage
-
----
-
-### 💧 Water Potability Prediction
-
-**Python · Scikit-learn · Streamlit · SMOTE**
-
-> Machine learning application for classifying water samples as potable or non-potable.
-
-* 🔹 Data preprocessing and missing-value handling
-* 🔹 Outlier removal and feature scaling
-* 🔹 SMOTE for class balancing
-* 🔹 Multiple ML models for evaluation
-* 🔹 Streamlit application for real-time prediction
-
----
-
-### ✈️ Flight Reservation System
-
-**Java · OOP**
-
-* 🔹 Booking validation
-* 🔹 Payment calculation
-* 🔹 Baggage management
-* 🔹 Excess baggage fee handling
-
----
-
-### 🚗 Car Rental System
-
-**C++ · OOP**
-
-* 🔹 Car management and availability
-* 🔹 Adding and listing available vehicles
-* 🔹 Efficient data handling
-* 🔹 Object-oriented system design
-
----
 
 ## 📚 Currently Learning
 
@@ -164,20 +85,6 @@
 * Collaborating on team projects using **GitHub**
 * Developing responsive interfaces and backend systems
 
----
-
-## 🤝 Leadership & Activities
-
-### Student Activity — SFE
-
-**HR Member · 2024 – Present**
-
-* Developed communication and presentation skills
-* Participated in organizing events
-* Collaborated with team members to ensure smooth workflow
-* Improved leadership, problem-solving, and time-management skills
-
----
 
 ## 📊 GitHub
 

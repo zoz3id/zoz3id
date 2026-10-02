@@ -74,29 +74,6 @@
 
 ---
 
-## 🏆 Experience
-
-### Digital Egypt Pioneers Initiative — DEPI
-
-**Full Stack .NET Trainee · 2025 – Present**
-
-* Building full-stack web applications using **ASP.NET Core, C#, SQL Server, HTML, CSS, and JavaScript**
-* Applying **MVC architecture** and **RESTful API** concepts
-* Collaborating on team projects using **GitHub**
-* Developing responsive interfaces and backend systems
-
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoz3id&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoz3id&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zoz3id&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
